@@ -509,8 +509,8 @@ background-color: #e33d44;
 		/*padding: 0 85px 100px 85px;*/
 	}
 
-	h1 { font-size: 90px; line-height: 120px; margin-bottom: 50px;}
-	h4 { font-size: 2em;}
+	h1 { font-size: 1.2em; line-height: 1.2em; margin-bottom: 1em;}
+	h4 { font-size: 1em;}
 
 
 	#livereContainer{
