@@ -254,19 +254,8 @@ font-weight: bold;
 background-color: #e33d44;
 }
 
-<<<<<<< HEAD
-footer{
-<<<<<<< HEAD
-	background-color:#5e5e5e;
-	min-height:50px;
-	text-align:center;
-	line-height:50px;
-	font-size:0.9em;
-	color:#FFFFFF;
-=======
-=======
+
 #footer{
->>>>>>> set the viewport
 	background-color:/*#5e5e5e*/#494949;
 	/*min-height:100px;*/
 	height: 70px; /*added style*/
@@ -275,7 +264,6 @@ footer{
 	font-size:14px;
 	text-align:center;
 	margin-top: 100px; /*added style*/
->>>>>>> FETCH_HEAD
 }
 
 
