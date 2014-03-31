@@ -557,9 +557,9 @@ background-color: #e33d44;
 	.text_list>li>.text_desc{
 	clear:right;
 	width:95%;
-	height:42px;
-	line-height:42px;
-	font-size:12px;
+	height:41px;
+	line-height:41px;
+	font-size:13px;
 	float:none;
 	border-radius:1px;
 	margin:0 2%;
@@ -572,8 +572,8 @@ background-color: #e33d44;
 			float:left;
 		}
 	.visual_list>li{
-		width:30%;
-		height:120px;
+		width:27%;
+		height:30px;
 		background-color:#ffffff;
 		float:left;
 		margin-left:12px;
@@ -589,8 +589,8 @@ background-color: #e33d44;
 	margin:15px 2% 15px 2%;
 	letter-spacing:-0.5px;*/
 	font-size:1em;
-	line-height: 50px;
-	margin: 50px;
+	line-height: 1em;
+	margin: 15px;
 	/*text-align:justify;*/
 	}
 	
