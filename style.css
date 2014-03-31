@@ -557,17 +557,17 @@ background-color: #e33d44;
 	.text_list>li>.text_desc{
 	clear:right;
 	width:95%;
-	height:74px;
-	line-height:74px;
+	height:37px;
+	line-height:37px;
 	float:none;
-	border-radius:2px;
+	border-radius:1px;
 	margin:0 2%;
-	padding:11px 0;
+	padding:5px 0;
 	text-align:center;
 	}
 		.text_list>li>img{
-			width:96px;
-			height:96px;
+			width:48px;
+			height:48px;
 			float:left;
 		}
 	.visual_list>li{
