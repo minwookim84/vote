@@ -489,10 +489,10 @@ background-color: #e33d44;
 
 
 .description{
-	width:90%;
+	width:96%;
 	overflow:hidden;
 	margin:0 auto;
-	padding: 1em 0.8em 1em 0.8em;
+	padding: 1em 0.5em 1em 0.5em;
 	/* border:2px solid #666666; */
 }
 
@@ -579,7 +579,7 @@ background-color: #e33d44;
 		height:30px;
 		background-color:#ffffff;
 		float:left;
-		margin-left:5px;
+		margin-left:3px;
 		margin-right:2px;
 		margin-bottom:5px;
 		text-align:center;
