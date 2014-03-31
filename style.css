@@ -434,7 +434,7 @@ background-color: #e33d44;
 /* iphone3,4,5 용 미디어 쿼리  */
 
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 640px) {
+@media only screen and (min-device-width : 320px) and (max-device-width : 960px) {
 
 	#header{
 	/* position:relative; */
