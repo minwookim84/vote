@@ -33,7 +33,7 @@ a{
 
 #header{
 	position:relative;
-	height:150px;
+	height:60px;
 	/*min-width:600px;*/
 	width: 100%;
 	border-bottom:1px solid /*#cccccc*/#494949;
@@ -439,7 +439,7 @@ background-color: #e33d44;
 
 	#header{
 	/* position:relative; */
-	height:100px;
+	height:120px;
 	/* min-width:100%; */
 	/*border-bottom:2px solid #cccccc;*/
 	/*background-color:rgba(0,0,0,0.01);*/
