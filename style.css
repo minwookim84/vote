@@ -431,10 +431,10 @@ background-color: #e33d44;
 }
 
 	
-/* iphone3,4,5 용 미디어 쿼리  */
+/* 모바일용 iphone3,4,5, 넥서스5 미디어 쿼리  */
 
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 960px) {
+@media only screen and (min-device-width : 320px) and (max-device-width : 1080px) {
 
 	#header{
 	/* position:relative; */
