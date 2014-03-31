@@ -393,9 +393,10 @@ background-color: #e33d44;
 
 	.text_list>li>.text_desc{
 	clear:right;
-	width:85%;
+	width:350px;
 	height:30px;
 	line-height:30px;
+	font-size:20px;
 	float:none;
 	border-radius:/*2px;*/0 10px 10px 0;
 	margin:0 15%;
