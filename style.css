@@ -575,11 +575,11 @@ background-color: #e33d44;
 			float:left;
 		}
 	.visual_list>li{
-		width:27%;
+		width:31%;
 		height:30px;
 		background-color:#ffffff;
 		float:left;
-		margin-left:12px;
+		margin-left:5px;
 		margin-right:2px;
 		margin-bottom:5px;
 		text-align:center;
