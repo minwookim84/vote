@@ -558,8 +558,8 @@ background-color: #e33d44;
 	clear:right;
 	width:95%;
 	height:42px;
-	line-height:37px;
-	font-size:15px;
+	line-height:42px;
+	font-size:12px;
 	float:none;
 	border-radius:1px;
 	margin:0 2%;
@@ -567,8 +567,8 @@ background-color: #e33d44;
 	text-align:center;
 	}
 		.text_list>li>img{
-			width:48px;
-			height:48px;
+			width:45px;
+			height:45px;
 			float:left;
 		}
 	.visual_list>li{
