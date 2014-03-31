@@ -596,10 +596,10 @@ background-color: #e33d44;
 	.nav_button.big {
 	width: 70%;
 	/*font-size: 1.5em;*/
-	padding: 70px;
-	font-size: 70px;
-	border-radius: 30px;
-	margin-top: 50px;
+	padding: 1em;
+	font-size: 1.5em;
+	border-radius: 1em;
+	margin-top: 1.5em;
 	}
 
 }
