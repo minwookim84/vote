@@ -488,11 +488,14 @@ background-color: #e33d44;
 
 
 
-	.description{
-		/*clear:both;
-		width:100%;
-		margin-bottom:20px;*/
-	}
+.description{
+	width:90%;
+	overflow:hidden;
+	margin:0 auto;
+	padding: 1em 0.8em 1em 0.8em;
+	/* border:2px solid #666666; */
+}
+
 
 	.desc_image{
 	width:100%;
