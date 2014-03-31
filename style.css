@@ -606,6 +606,12 @@ background-color: #e33d44;
 	margin-top: 0.7em;
 	}
 
+	#footer{
+	margin-top: 2em; /*added style*/
+}
+
+
+
 }
 
 /* 큰화면 모바일 용 */
