@@ -510,7 +510,7 @@ background-color: #e33d44;
 	}
 
 	h1 { font-size: 1.2em; line-height: 1.2em; margin-bottom: 1em;}
-	h4 { font-size: 1em;}
+	h4 { font-size: 0.9em;}
 
 
 	#livereContainer{
@@ -523,9 +523,9 @@ background-color: #e33d44;
 	}
 
 	h2{
-	font-size:60px;
+	font-size:1em;
 	font-weight:bold;
-	margin-bottom:30px;
+	margin-bottom:1em;
 	}
 
 	.subtitle{
@@ -537,9 +537,9 @@ background-color: #e33d44;
 	/*text-align:justify;*/
 	}	
 	.text_desc{
-	font-size:40px;
-	height:50px;
-	line-height:50px;
+	font-size:1em;
+	height:1.2em;
+	line-height:1.1em;
 	border-radius:0;
 	}
 
